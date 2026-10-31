@@ -1,0 +1,6 @@
+{
+  "name": "CrewAI Autonomous Research Team",
+  "description": "Production-grade multi-agent autonomous research system powered by CrewAI, LangChain, and Streamlit, featuring a Senior Web Researcher, Lead Market Analyst, and Executive Editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

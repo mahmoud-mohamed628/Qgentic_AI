@@ -1,0 +1,25 @@
+# ==============================================================================
+# Autonomous AI Research Team - Python Dependencies
+# Multi-Agent Architecture using CrewAI, LangChain, and Streamlit
+# ==============================================================================
+
+# Core Multi-Agent Framework
+crewai>=0.86.0
+crewai-tools>=0.17.0
+litellm>=1.0.0
+
+# LangChain & Model Provider Integrations
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.2.0
+
+# Web Search & Grounding Tools
+tavily-python>=0.5.0
+
+# User Interface & Frontend Dashboard
+streamlit>=1.39.0
+
+# Environment Variable & Configuration Management
+python-dotenv>=1.0.1
+pydantic>=2.9.0
